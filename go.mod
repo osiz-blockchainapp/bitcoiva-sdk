@@ -1,4 +1,4 @@
-module github.com/cosmos/cosmos-sdk
+module github.com/osiz-blockchainapp/bitcoiva-sdk
 
 go 1.13
 
