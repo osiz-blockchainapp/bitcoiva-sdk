@@ -8,8 +8,8 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/baseapp"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/bank/internal/keeper"
-	"github.com/cosmos/cosmos-sdk/x/bank/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/bank/internal/keeper"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/bank/internal/types"
 	"github.com/cosmos/cosmos-sdk/x/mock"
 	"github.com/cosmos/cosmos-sdk/x/simulation"
 )
