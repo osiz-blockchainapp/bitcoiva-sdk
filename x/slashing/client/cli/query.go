@@ -6,12 +6,12 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/cosmos/cosmos-sdk/client"
-	"github.com/cosmos/cosmos-sdk/client/context"
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/context"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 
-	"github.com/cosmos/cosmos-sdk/x/slashing/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/slashing/types"
 )
 
 // GetQueryCmd returns the cli query commands for this module

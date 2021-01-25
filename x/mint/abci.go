@@ -2,7 +2,7 @@ package mint
 
 import (
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/mint/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/mint/internal/types"
 )
 
 // BeginBlocker mints new tokens for the previous block.

@@ -3,9 +3,9 @@ package cli
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/cosmos/cosmos-sdk/client"
-	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/cosmos/cosmos-sdk/x/auth/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/types"
 )
 
 // GetTxCmd returns the transaction commands for this module

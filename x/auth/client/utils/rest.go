@@ -4,11 +4,11 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
-	"github.com/cosmos/cosmos-sdk/client/flags"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/context"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/flags"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/rest"
-	"github.com/cosmos/cosmos-sdk/x/auth/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/types"
 )
 
 // WriteGenerateStdTxResponse writes response for the generate only mode.

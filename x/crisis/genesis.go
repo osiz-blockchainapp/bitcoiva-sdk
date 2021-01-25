@@ -2,8 +2,8 @@ package crisis
 
 import (
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/crisis/internal/keeper"
-	"github.com/cosmos/cosmos-sdk/x/crisis/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/crisis/internal/keeper"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/crisis/internal/types"
 )
 
 // new crisis genesis

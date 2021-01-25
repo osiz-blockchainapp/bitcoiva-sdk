@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"io/ioutil"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/rest"
-	"github.com/cosmos/cosmos-sdk/x/params"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/params"
 )
 
 type (

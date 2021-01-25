@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/supply/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply/internal/types"
 )
 
 // SendCoinsFromModuleToAccount transfers coins from a ModuleAccount to an AccAddress

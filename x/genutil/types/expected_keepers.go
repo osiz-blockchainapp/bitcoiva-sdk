@@ -5,9 +5,9 @@ import (
 
 	abci "github.com/tendermint/tendermint/abci/types"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	authexported "github.com/cosmos/cosmos-sdk/x/auth/exported"
+	authexported "github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/exported"
 )
 
 // StakingKeeper defines the expected staking keeper (noalias)

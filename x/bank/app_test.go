@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth"
-	"github.com/cosmos/cosmos-sdk/x/bank/internal/types"
-	"github.com/cosmos/cosmos-sdk/x/mock"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/bank/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/mock"
 
 	"github.com/stretchr/testify/require"
 

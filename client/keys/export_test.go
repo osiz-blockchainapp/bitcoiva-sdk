@@ -6,8 +6,8 @@ import (
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/cosmos/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/tests"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/flags"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/tests"
 )
 
 func Test_runExportCmd(t *testing.T) {

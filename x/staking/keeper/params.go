@@ -4,8 +4,8 @@ import (
 	"time"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/params"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/params"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/types"
 )
 
 // Default parameter namespace

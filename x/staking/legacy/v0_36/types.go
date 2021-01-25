@@ -5,9 +5,9 @@ package v0_36
 import (
 	"time"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	v034staking "github.com/cosmos/cosmos-sdk/x/staking/legacy/v0_34"
+	v034staking "github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/legacy/v0_34"
 	"github.com/tendermint/tendermint/crypto"
 )
 

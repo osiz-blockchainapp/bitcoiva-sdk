@@ -7,9 +7,9 @@ import (
 	"github.com/tendermint/tendermint/libs/log"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/exported"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/bank/internal/types"
-	"github.com/cosmos/cosmos-sdk/x/params"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/params"
 )
 
 var _ Keeper = (*BaseKeeper)(nil)

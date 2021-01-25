@@ -17,10 +17,10 @@ import (
 	tmliteProxy "github.com/tendermint/tendermint/lite/proxy"
 	rpcclient "github.com/tendermint/tendermint/rpc/client"
 
-	"github.com/cosmos/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/client/keys"
-	"github.com/cosmos/cosmos-sdk/codec"
-	cryptokeys "github.com/cosmos/cosmos-sdk/crypto/keys"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/flags"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/keys"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
+	cryptokeys "github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

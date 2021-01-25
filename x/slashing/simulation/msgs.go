@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/cosmos/cosmos-sdk/baseapp"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/baseapp"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/simulation"
-	"github.com/cosmos/cosmos-sdk/x/slashing"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/simulation"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/slashing"
 )
 
 // SimulateMsgUnjail generates a MsgUnjail with random values

@@ -7,12 +7,12 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/tendermint/tendermint/types"
 
-	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/cosmos/cosmos-sdk/server"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/server"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/version"
-	extypes "github.com/cosmos/cosmos-sdk/x/genutil"
-	v036 "github.com/cosmos/cosmos-sdk/x/genutil/legacy/v036"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/version"
+	extypes "github.com/osiz-blockchainapp/bitcoiva-sdk/x/genutil"
+	v036 "github.com/osiz-blockchainapp/bitcoiva-sdk/x/genutil/legacy/v036"
 )
 
 var migrationMap = extypes.MigrationMap{

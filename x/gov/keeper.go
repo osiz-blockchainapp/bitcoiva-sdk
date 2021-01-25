@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/gov/types"
-	"github.com/cosmos/cosmos-sdk/x/params"
-	"github.com/cosmos/cosmos-sdk/x/supply/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/params"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply/exported"
 
 	"github.com/tendermint/tendermint/libs/log"
 )

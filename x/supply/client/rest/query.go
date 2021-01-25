@@ -6,9 +6,9 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/context"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/rest"
-	"github.com/cosmos/cosmos-sdk/x/supply/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply/internal/types"
 )
 
 // RegisterRoutes registers staking-related REST handlers to a router

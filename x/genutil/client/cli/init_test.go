@@ -14,14 +14,14 @@ import (
 	"github.com/tendermint/tendermint/libs/cli"
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/cosmos/cosmos-sdk/client"
-	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/cosmos/cosmos-sdk/server"
-	"github.com/cosmos/cosmos-sdk/server/mock"
-	"github.com/cosmos/cosmos-sdk/tests"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/server"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/server/mock"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/tests"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/module"
-	"github.com/cosmos/cosmos-sdk/x/genutil"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/genutil"
 )
 
 var testMbm = module.NewBasicManager(genutil.AppModuleBasic{})

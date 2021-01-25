@@ -2,7 +2,7 @@ package types
 
 import (
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/exported"
 )
 
 // AccountKeeper defines the account contract that must be fulfilled when

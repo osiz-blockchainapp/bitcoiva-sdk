@@ -4,7 +4,7 @@ import (
 	"time"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/slashing/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/slashing/types"
 )
 
 // MaxEvidenceAge - max age for evidence

@@ -12,14 +12,14 @@ import (
 	"github.com/tendermint/tendermint/crypto/multisig"
 	"github.com/tendermint/tendermint/libs/cli"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
-	"github.com/cosmos/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/client/keys"
-	"github.com/cosmos/cosmos-sdk/codec"
-	crkeys "github.com/cosmos/cosmos-sdk/crypto/keys"
-	"github.com/cosmos/cosmos-sdk/version"
-	"github.com/cosmos/cosmos-sdk/x/auth/client/utils"
-	"github.com/cosmos/cosmos-sdk/x/auth/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/context"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/flags"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/keys"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
+	crkeys "github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/version"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/client/utils"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/types"
 )
 
 // GetSignCommand returns the sign command

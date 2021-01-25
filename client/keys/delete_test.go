@@ -9,8 +9,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/cosmos/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/tests"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/flags"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/tests"
 )
 
 func Test_runDeleteCmd(t *testing.T) {

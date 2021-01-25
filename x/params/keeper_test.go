@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/cosmos/cosmos-sdk/store/prefix"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/store/prefix"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

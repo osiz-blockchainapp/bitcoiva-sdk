@@ -11,14 +11,14 @@ import (
 	cfg "github.com/tendermint/tendermint/config"
 	"github.com/tendermint/tendermint/crypto"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/context"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/module"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	"github.com/cosmos/cosmos-sdk/x/staking/client/cli"
-	"github.com/cosmos/cosmos-sdk/x/staking/client/rest"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	authtypes "github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/client/cli"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/client/rest"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/types"
 )
 
 var (

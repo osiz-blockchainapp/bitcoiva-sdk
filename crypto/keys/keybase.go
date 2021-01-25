@@ -9,10 +9,10 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/cosmos/cosmos-sdk/crypto"
-	"github.com/cosmos/cosmos-sdk/crypto/keys/hd"
-	"github.com/cosmos/cosmos-sdk/crypto/keys/keyerror"
-	"github.com/cosmos/cosmos-sdk/crypto/keys/mintkey"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys/hd"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys/keyerror"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys/mintkey"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 
 	bip39 "github.com/cosmos/go-bip39"

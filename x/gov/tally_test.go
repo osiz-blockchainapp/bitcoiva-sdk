@@ -9,7 +9,7 @@ import (
 	"github.com/tendermint/tendermint/crypto/ed25519"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/staking"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking"
 )
 
 func TestTallyNoOneVotes(t *testing.T) {

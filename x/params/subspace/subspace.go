@@ -4,10 +4,10 @@ import (
 	"errors"
 	"reflect"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 
-	"github.com/cosmos/cosmos-sdk/store/prefix"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/store/prefix"
 )
 
 const (

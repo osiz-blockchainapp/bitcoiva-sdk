@@ -6,10 +6,10 @@ import (
 	"strings"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth"
-	authexported "github.com/cosmos/cosmos-sdk/x/auth/exported"
-	"github.com/cosmos/cosmos-sdk/x/supply"
-	supplyexported "github.com/cosmos/cosmos-sdk/x/supply/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth"
+	authexported "github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply"
+	supplyexported "github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply/exported"
 )
 
 // GenesisAccount is a struct for account initialization used exclusively during genesis

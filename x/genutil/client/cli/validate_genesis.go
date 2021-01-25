@@ -8,8 +8,8 @@ import (
 	"github.com/spf13/cobra"
 	tmtypes "github.com/tendermint/tendermint/types"
 
-	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/cosmos/cosmos-sdk/server"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/server"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/module"
 )
 

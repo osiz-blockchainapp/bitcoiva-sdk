@@ -11,8 +11,8 @@ import (
 	cmn "github.com/tendermint/tendermint/libs/common"
 	dbm "github.com/tendermint/tm-db"
 
-	"github.com/cosmos/cosmos-sdk/store/errors"
-	"github.com/cosmos/cosmos-sdk/store/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/store/errors"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/store/types"
 )
 
 var (

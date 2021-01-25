@@ -7,9 +7,9 @@ import (
 
 	"github.com/spf13/viper"
 
-	"github.com/cosmos/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/client/keys"
-	crkeys "github.com/cosmos/cosmos-sdk/crypto/keys"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/flags"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/keys"
+	crkeys "github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

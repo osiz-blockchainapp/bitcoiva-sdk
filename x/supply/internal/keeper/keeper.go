@@ -5,10 +5,10 @@ import (
 
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/supply/exported"
-	"github.com/cosmos/cosmos-sdk/x/supply/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply/internal/types"
 )
 
 // Keeper of the supply store

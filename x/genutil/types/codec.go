@@ -1,10 +1,10 @@
 package types
 
 import (
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
+	authtypes "github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/types"
+	stakingtypes "github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/types"
 )
 
 // ModuleCdc defines a generic sealed codec to be used throughout this module

@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/gov/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov/types"
 )
 
 // EndBlocker called every block, process inflation, update validator set.

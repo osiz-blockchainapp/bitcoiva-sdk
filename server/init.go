@@ -3,9 +3,9 @@ package server
 import (
 	"fmt"
 
-	"github.com/cosmos/cosmos-sdk/crypto/keys"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys"
 
-	clkeys "github.com/cosmos/cosmos-sdk/client/keys"
+	clkeys "github.com/osiz-blockchainapp/bitcoiva-sdk/client/keys"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

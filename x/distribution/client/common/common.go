@@ -3,9 +3,9 @@ package common
 import (
 	"fmt"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/context"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/distribution/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution/types"
 )
 
 // QueryParams actually queries distribution params.

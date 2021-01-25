@@ -2,7 +2,7 @@ package keeper
 
 import (
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/crisis/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/crisis/internal/types"
 )
 
 // GetConstantFee get's the constant fee from the paramSpace

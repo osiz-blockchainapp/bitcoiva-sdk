@@ -11,12 +11,12 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 	tmtypes "github.com/tendermint/tendermint/types"
 
-	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/cosmos/cosmos-sdk/store"
-	"github.com/cosmos/cosmos-sdk/x/auth"
-	"github.com/cosmos/cosmos-sdk/x/bank"
-	"github.com/cosmos/cosmos-sdk/x/params"
-	"github.com/cosmos/cosmos-sdk/x/supply/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/store"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/bank"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/params"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply/internal/types"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )

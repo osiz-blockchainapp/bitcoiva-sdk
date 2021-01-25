@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	govtypes "github.com/cosmos/cosmos-sdk/x/gov/types"
+	govtypes "github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov/types"
 )
 
 const (

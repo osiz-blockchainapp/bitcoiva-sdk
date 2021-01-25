@@ -6,8 +6,8 @@ import (
 
 	"github.com/spf13/viper"
 
-	"github.com/cosmos/cosmos-sdk/client/input"
-	"github.com/cosmos/cosmos-sdk/crypto/keys"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/input"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys"
 
 	"github.com/spf13/cobra"
 )

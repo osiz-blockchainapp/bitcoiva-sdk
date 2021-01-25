@@ -10,9 +10,9 @@ import (
 
 	"github.com/tendermint/tendermint/libs/cli"
 
-	"github.com/cosmos/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/crypto/keys"
-	"github.com/cosmos/cosmos-sdk/tests"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/flags"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/tests"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

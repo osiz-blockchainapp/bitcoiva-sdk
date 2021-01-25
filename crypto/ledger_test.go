@@ -9,8 +9,8 @@ import (
 	tmcrypto "github.com/tendermint/tendermint/crypto"
 	cryptoAmino "github.com/tendermint/tendermint/crypto/encoding/amino"
 
-	"github.com/cosmos/cosmos-sdk/crypto/keys/hd"
-	"github.com/cosmos/cosmos-sdk/tests"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys/hd"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/tests"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

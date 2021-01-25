@@ -9,18 +9,18 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	"github.com/tendermint/tendermint/crypto/ed25519"
 	cmn "github.com/tendermint/tendermint/libs/common"
 
-	"github.com/cosmos/cosmos-sdk/x/auth"
-	"github.com/cosmos/cosmos-sdk/x/distribution"
-	distr "github.com/cosmos/cosmos-sdk/x/distribution"
-	"github.com/cosmos/cosmos-sdk/x/gov"
-	"github.com/cosmos/cosmos-sdk/x/mint"
-	"github.com/cosmos/cosmos-sdk/x/slashing"
-	"github.com/cosmos/cosmos-sdk/x/staking"
-	"github.com/cosmos/cosmos-sdk/x/supply"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution"
+	distr "github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/mint"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/slashing"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )

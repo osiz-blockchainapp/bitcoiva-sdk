@@ -9,9 +9,9 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth"
-	"github.com/cosmos/cosmos-sdk/x/crisis"
-	distr "github.com/cosmos/cosmos-sdk/x/distribution"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/crisis"
+	distr "github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution"
 )
 
 var (

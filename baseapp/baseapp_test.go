@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	store "github.com/cosmos/cosmos-sdk/store/types"
+	store "github.com/osiz-blockchainapp/bitcoiva-sdk/store/types"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
@@ -16,7 +16,7 @@ import (
 	"github.com/tendermint/tendermint/libs/log"
 	dbm "github.com/tendermint/tm-db"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

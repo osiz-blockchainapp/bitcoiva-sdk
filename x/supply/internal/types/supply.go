@@ -6,7 +6,7 @@ import (
 	"gopkg.in/yaml.v2"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/supply/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply/exported"
 )
 
 // Implements Delegation interface

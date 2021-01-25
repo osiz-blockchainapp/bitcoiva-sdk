@@ -2,7 +2,7 @@ package slashing
 
 import (
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/slashing/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/slashing/types"
 )
 
 // Stored by *validator* address (not operator address)

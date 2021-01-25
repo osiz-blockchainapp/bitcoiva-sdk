@@ -9,8 +9,8 @@ import (
 	"github.com/tendermint/tendermint/crypto/ed25519"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
+	authtypes "github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/types"
+	stakingtypes "github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/types"
 )
 
 var (
@@ -20,7 +20,7 @@ var (
 
 func TestNetGenesisState(t *testing.T) {
 	gen := NewGenesisState(nil)
-	assert.NotNil(t, gen.GenTxs) // https://github.com/cosmos/cosmos-sdk/issues/5086
+	assert.NotNil(t, gen.GenTxs) // https://github.com/osiz-blockchainapp/bitcoiva-sdk/issues/5086
 
 	gen = NewGenesisState(
 		[]json.RawMessage{

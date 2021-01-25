@@ -9,11 +9,11 @@ import (
 
 	ctypes "github.com/tendermint/tendermint/rpc/core/types"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
-	"github.com/cosmos/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/context"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/flags"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/rest"
-	"github.com/cosmos/cosmos-sdk/version"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/version"
 
 	"github.com/tendermint/tendermint/p2p"
 )

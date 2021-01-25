@@ -4,9 +4,9 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/context"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/rest"
-	"github.com/cosmos/cosmos-sdk/x/auth/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/types"
 )
 
 // BroadcastReq defines a tx broadcasting request.

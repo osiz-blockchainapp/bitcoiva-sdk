@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/distribution/keeper"
-	"github.com/cosmos/cosmos-sdk/x/distribution/types"
-	govtypes "github.com/cosmos/cosmos-sdk/x/gov/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution/keeper"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution/types"
+	govtypes "github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov/types"
 )
 
 func NewHandler(k keeper.Keeper) sdk.Handler {

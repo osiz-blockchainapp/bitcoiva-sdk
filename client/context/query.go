@@ -14,7 +14,7 @@ import (
 	rpcclient "github.com/tendermint/tendermint/rpc/client"
 	tmtypes "github.com/tendermint/tendermint/types"
 
-	"github.com/cosmos/cosmos-sdk/store/rootmulti"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/store/rootmulti"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

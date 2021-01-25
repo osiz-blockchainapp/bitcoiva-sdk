@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/staking/exported"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/types"
 )
 
 // RegisterInvariants registers all staking invariants

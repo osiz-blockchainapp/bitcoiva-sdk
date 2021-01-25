@@ -3,10 +3,10 @@ package keeper
 import (
 	"fmt"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/distribution/types"
-	"github.com/cosmos/cosmos-sdk/x/params"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/params"
 
 	"github.com/tendermint/tendermint/libs/log"
 )

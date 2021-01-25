@@ -8,7 +8,7 @@ import (
 
 	abci "github.com/tendermint/tendermint/abci/types"
 
-	"github.com/cosmos/cosmos-sdk/baseapp"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/baseapp"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

@@ -2,8 +2,8 @@ package slashing
 
 import (
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/slashing/types"
-	"github.com/cosmos/cosmos-sdk/x/staking/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/slashing/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/exported"
 )
 
 // InitGenesis initialize default parameters

@@ -9,7 +9,7 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/staking"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking"
 )
 
 func TestCannotUnjailUnlessJailed(t *testing.T) {

@@ -13,7 +13,7 @@ import (
 	"github.com/tendermint/tendermint/libs/bech32"
 	"github.com/tendermint/tendermint/libs/cli"
 
-	"github.com/cosmos/cosmos-sdk/client/flags"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/flags"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

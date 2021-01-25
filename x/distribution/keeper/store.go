@@ -2,7 +2,7 @@ package keeper
 
 import (
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/distribution/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution/types"
 )
 
 // get the delegator withdraw address, defaulting to the delegator address

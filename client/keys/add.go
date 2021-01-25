@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/cosmos/cosmos-sdk/client/flags"
-	"github.com/cosmos/cosmos-sdk/client/input"
-	"github.com/cosmos/cosmos-sdk/crypto/keys"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/flags"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/input"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 
 	"github.com/spf13/cobra"

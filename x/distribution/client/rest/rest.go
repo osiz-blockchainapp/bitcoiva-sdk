@@ -5,13 +5,13 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/context"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/rest"
-	"github.com/cosmos/cosmos-sdk/x/auth/client/utils"
-	"github.com/cosmos/cosmos-sdk/x/distribution/types"
-	"github.com/cosmos/cosmos-sdk/x/gov"
-	govrest "github.com/cosmos/cosmos-sdk/x/gov/client/rest"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/client/utils"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov"
+	govrest "github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov/client/rest"
 )
 
 // RegisterRoutes register distribution REST routes.

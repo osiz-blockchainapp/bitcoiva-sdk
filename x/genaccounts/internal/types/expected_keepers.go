@@ -2,7 +2,7 @@ package types
 
 import (
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	authexported "github.com/cosmos/cosmos-sdk/x/auth/exported"
+	authexported "github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/exported"
 )
 
 // AccountKeeper defines the expected account keeper (noalias)

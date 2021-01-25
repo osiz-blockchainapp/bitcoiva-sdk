@@ -6,7 +6,7 @@ import (
 	"github.com/tendermint/tendermint/crypto"
 	cmn "github.com/tendermint/tendermint/libs/common"
 
-	"github.com/cosmos/cosmos-sdk/crypto/keys/hd"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys/hd"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

@@ -6,7 +6,7 @@ import (
 	"time"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/gov/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov/types"
 )
 
 const (

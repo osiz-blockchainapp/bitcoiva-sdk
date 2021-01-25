@@ -6,7 +6,7 @@ import (
 	"time"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/types"
 )
 
 // return a specific delegation

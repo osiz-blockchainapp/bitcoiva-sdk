@@ -8,8 +8,8 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/cosmos/cosmos-sdk/store/gaskv"
-	stypes "github.com/cosmos/cosmos-sdk/store/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/store/gaskv"
+	stypes "github.com/osiz-blockchainapp/bitcoiva-sdk/store/types"
 )
 
 /*

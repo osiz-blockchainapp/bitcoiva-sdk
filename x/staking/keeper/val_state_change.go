@@ -8,7 +8,7 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/types"
 )
 
 // Apply and return accumulated updates to the bonded validator set. Also,

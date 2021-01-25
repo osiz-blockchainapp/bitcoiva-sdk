@@ -6,7 +6,7 @@ import (
 	"github.com/tendermint/tendermint/crypto/ed25519"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/distribution/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution/types"
 	"github.com/stretchr/testify/require"
 )
 

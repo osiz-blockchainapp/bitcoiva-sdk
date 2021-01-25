@@ -5,7 +5,7 @@ import (
 	"time"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	params "github.com/cosmos/cosmos-sdk/x/params/subspace"
+	params "github.com/osiz-blockchainapp/bitcoiva-sdk/x/params/subspace"
 )
 
 // Parameter store key

@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/cosmos/cosmos-sdk/baseapp"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/baseapp"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth"
-	"github.com/cosmos/cosmos-sdk/x/distribution"
-	"github.com/cosmos/cosmos-sdk/x/gov"
-	govsim "github.com/cosmos/cosmos-sdk/x/gov/simulation"
-	"github.com/cosmos/cosmos-sdk/x/simulation"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov"
+	govsim "github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov/simulation"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/simulation"
 )
 
 // SimulateMsgSetWithdrawAddress generates a MsgSetWithdrawAddress with random values.

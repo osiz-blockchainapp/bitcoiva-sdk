@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/tendermint/tendermint/crypto/secp256k1"
 
-	"github.com/cosmos/cosmos-sdk/crypto/keys/hd"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys/hd"
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

@@ -5,8 +5,8 @@ import (
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 
-	"github.com/cosmos/cosmos-sdk/x/distribution/types"
-	"github.com/cosmos/cosmos-sdk/x/staking/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/distribution/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/exported"
 )
 
 // initialize rewards for a new validator

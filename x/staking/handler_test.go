@@ -13,8 +13,8 @@ import (
 	tmtypes "github.com/tendermint/tendermint/types"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	keep "github.com/cosmos/cosmos-sdk/x/staking/keeper"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
+	keep "github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/keeper"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/types"
 )
 
 //______________________________________________________________________

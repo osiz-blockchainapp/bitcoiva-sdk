@@ -10,8 +10,8 @@ import (
 	"github.com/tendermint/tendermint/crypto"
 	"github.com/tendermint/tendermint/crypto/ed25519"
 
-	"github.com/cosmos/cosmos-sdk/crypto/keys/hd"
-	"github.com/cosmos/cosmos-sdk/crypto/keys/mintkey"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys/hd"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/crypto/keys/mintkey"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

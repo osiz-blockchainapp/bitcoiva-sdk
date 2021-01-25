@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/require"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/mint/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/mint/internal/types"
 
 	abci "github.com/tendermint/tendermint/abci/types"
 )

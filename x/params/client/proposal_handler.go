@@ -1,9 +1,9 @@
 package client
 
 import (
-	govclient "github.com/cosmos/cosmos-sdk/x/gov/client"
-	"github.com/cosmos/cosmos-sdk/x/params/client/cli"
-	"github.com/cosmos/cosmos-sdk/x/params/client/rest"
+	govclient "github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov/client"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/params/client/cli"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/params/client/rest"
 )
 
 // param change proposal handler

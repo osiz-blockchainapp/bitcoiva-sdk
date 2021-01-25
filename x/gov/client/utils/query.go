@@ -3,10 +3,10 @@ package utils
 import (
 	"fmt"
 
-	"github.com/cosmos/cosmos-sdk/client/context"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/context"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth/client/utils"
-	"github.com/cosmos/cosmos-sdk/x/gov/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/client/utils"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov/types"
 )
 
 const (

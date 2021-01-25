@@ -3,7 +3,7 @@ package context
 import (
 	"fmt"
 
-	"github.com/cosmos/cosmos-sdk/client/flags"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client/flags"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

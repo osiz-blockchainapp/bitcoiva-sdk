@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/require"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/staking"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking"
 )
 
 func TestCalculateRewardsBasic(t *testing.T) {

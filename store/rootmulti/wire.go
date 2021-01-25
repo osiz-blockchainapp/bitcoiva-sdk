@@ -1,7 +1,7 @@
 package rootmulti
 
 import (
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 )
 
 var cdc = codec.New()

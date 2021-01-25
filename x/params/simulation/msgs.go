@@ -6,11 +6,11 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/cosmos/cosmos-sdk/baseapp"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/baseapp"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/gov"
-	"github.com/cosmos/cosmos-sdk/x/params"
-	"github.com/cosmos/cosmos-sdk/x/simulation"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/gov"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/params"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/simulation"
 )
 
 type simParamChange struct {

@@ -5,9 +5,9 @@ import (
 
 	abci "github.com/tendermint/tendermint/abci/types"
 
-	"github.com/cosmos/cosmos-sdk/client"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/client"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/supply/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply/internal/types"
 )
 
 // NewQuerier creates a querier for supply REST endpoints

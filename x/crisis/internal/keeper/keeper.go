@@ -7,8 +7,8 @@ import (
 	"github.com/tendermint/tendermint/libs/log"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/crisis/internal/types"
-	"github.com/cosmos/cosmos-sdk/x/params"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/crisis/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/params"
 )
 
 // Keeper - crisis keeper

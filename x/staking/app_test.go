@@ -7,12 +7,12 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth"
-	"github.com/cosmos/cosmos-sdk/x/bank"
-	"github.com/cosmos/cosmos-sdk/x/mock"
-	"github.com/cosmos/cosmos-sdk/x/staking/types"
-	"github.com/cosmos/cosmos-sdk/x/supply"
-	supplyexported "github.com/cosmos/cosmos-sdk/x/supply/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/bank"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/mock"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply"
+	supplyexported "github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply/exported"
 )
 
 // getMockApp returns an initialized mock application for this module.

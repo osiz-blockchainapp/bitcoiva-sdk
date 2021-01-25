@@ -6,11 +6,11 @@ import (
 	"github.com/tendermint/tendermint/crypto"
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	"github.com/cosmos/cosmos-sdk/x/auth/exported"
-	"github.com/cosmos/cosmos-sdk/x/auth/types"
-	"github.com/cosmos/cosmos-sdk/x/params/subspace"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/exported"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/params/subspace"
 )
 
 // AccountKeeper encodes/decodes accounts using the go-amino (binary)

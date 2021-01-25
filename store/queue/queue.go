@@ -3,10 +3,10 @@ package store
 // TODO: make it independent from list
 /*
 import (
-	"github.com/cosmos/cosmos-sdk/codec"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/codec"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 
-	"github.com/cosmos/cosmos-sdk/store/list"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/store/list"
 )
 
 // Key for the top element position in the queue

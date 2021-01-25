@@ -2,9 +2,9 @@ package types
 
 import (
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
-	authexported "github.com/cosmos/cosmos-sdk/x/auth/exported"
-	stakingexported "github.com/cosmos/cosmos-sdk/x/staking/exported"
-	supplyexported "github.com/cosmos/cosmos-sdk/x/supply/exported"
+	authexported "github.com/osiz-blockchainapp/bitcoiva-sdk/x/auth/exported"
+	stakingexported "github.com/osiz-blockchainapp/bitcoiva-sdk/x/staking/exported"
+	supplyexported "github.com/osiz-blockchainapp/bitcoiva-sdk/x/supply/exported"
 )
 
 // DistributionKeeper expected distribution keeper (noalias)
@@ -25,7 +25,7 @@ type SupplyKeeper interface {
 	GetModuleAddress(name string) sdk.AccAddress
 	GetModuleAccount(ctx sdk.Context, moduleName string) supplyexported.ModuleAccountI
 
-	// TODO remove with genesis 2-phases refactor https://github.com/cosmos/cosmos-sdk/issues/2862
+	// TODO remove with genesis 2-phases refactor https://github.com/osiz-blockchainapp/bitcoiva-sdk/issues/2862
 	SetModuleAccount(sdk.Context, supplyexported.ModuleAccountI)
 
 	SendCoinsFromModuleToModule(ctx sdk.Context, senderPool, recipientPool string, amt sdk.Coins) sdk.Error

@@ -10,7 +10,7 @@ import (
 	"github.com/tendermint/tendermint/crypto"
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/cosmos/cosmos-sdk/server"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/server"
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 

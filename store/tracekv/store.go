@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/cosmos/cosmos-sdk/store/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/store/types"
 )
 
 const (
