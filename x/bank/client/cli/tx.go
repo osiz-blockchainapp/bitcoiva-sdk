@@ -9,7 +9,7 @@ import (
 	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/auth"
 	"github.com/cosmos/cosmos-sdk/x/auth/client/utils"
-	"github.com/cosmos/cosmos-sdk/x/bank/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/bank/internal/types"
 )
 
 // GetTxCmd returns the transaction commands for this module
