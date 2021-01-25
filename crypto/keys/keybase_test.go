@@ -12,7 +12,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/crypto/keys/hd"
 	"github.com/cosmos/cosmos-sdk/crypto/keys/mintkey"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 
 func init() {

@@ -1,7 +1,7 @@
 package auth
 
 import (
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 
 // InitGenesis - Init store state from genesis data

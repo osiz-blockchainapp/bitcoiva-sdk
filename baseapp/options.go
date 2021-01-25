@@ -7,7 +7,7 @@ import (
 	dbm "github.com/tendermint/tm-db"
 
 	"github.com/cosmos/cosmos-sdk/store"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 
 // File for storing in-package BaseApp optional functions,

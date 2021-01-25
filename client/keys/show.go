@@ -14,7 +14,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/client/flags"
 	"github.com/cosmos/cosmos-sdk/crypto"
 	"github.com/cosmos/cosmos-sdk/crypto/keys"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 
 const (

@@ -8,7 +8,7 @@ import (
 	"github.com/tendermint/tendermint/crypto"
 	yaml "gopkg.in/yaml.v2"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/auth/exported"
 )
 

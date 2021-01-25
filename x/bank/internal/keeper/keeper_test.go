@@ -9,7 +9,7 @@ import (
 	cmn "github.com/tendermint/tendermint/libs/common"
 	tmtime "github.com/tendermint/tendermint/types/time"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/auth"
 	"github.com/cosmos/cosmos-sdk/x/bank/internal/types"
 )

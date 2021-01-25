@@ -1,7 +1,7 @@
 package v0_36
 
 import (
-	"github.com/cosmos/cosmos-sdk/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	v034auth "github.com/cosmos/cosmos-sdk/x/auth/legacy/v0_34"
 	"testing"
 

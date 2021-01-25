@@ -12,7 +12,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/client/context"
 	"github.com/cosmos/cosmos-sdk/client/flags"
 	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/cosmos/cosmos-sdk/types/rest"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/rest"
 
 	tmliteProxy "github.com/tendermint/tendermint/lite/proxy"
 )

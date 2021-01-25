@@ -3,7 +3,7 @@ package cli
 import (
 	"errors"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/staking/types"
 )
 

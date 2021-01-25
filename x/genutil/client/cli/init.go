@@ -16,8 +16,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/cosmos/cosmos-sdk/codec"
 	"github.com/cosmos/cosmos-sdk/server"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/types/module"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/module"
 	"github.com/cosmos/cosmos-sdk/x/genutil"
 )
 

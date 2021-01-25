@@ -10,8 +10,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/distribution/client/common"
 	"github.com/cosmos/cosmos-sdk/x/distribution/types"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/types/rest"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/rest"
 )
 
 func registerTxRoutes(cliCtx context.CLIContext, r *mux.Router, queryRoute string) {

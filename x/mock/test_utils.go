@@ -12,7 +12,7 @@ import (
 	"github.com/tendermint/tendermint/crypto"
 
 	"github.com/cosmos/cosmos-sdk/baseapp"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 )
 
 // BigInterval is a representation of the interval [lo, hi), where

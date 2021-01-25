@@ -6,7 +6,7 @@ import (
 
 	"github.com/tendermint/tendermint/libs/log"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/auth/exported"
 	"github.com/cosmos/cosmos-sdk/x/bank/internal/types"
 	"github.com/cosmos/cosmos-sdk/x/params"

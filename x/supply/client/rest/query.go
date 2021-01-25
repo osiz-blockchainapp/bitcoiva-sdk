@@ -7,7 +7,7 @@ import (
 	"github.com/gorilla/mux"
 
 	"github.com/cosmos/cosmos-sdk/client/context"
-	"github.com/cosmos/cosmos-sdk/types/rest"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/rest"
 	"github.com/cosmos/cosmos-sdk/x/supply/internal/types"
 )
 

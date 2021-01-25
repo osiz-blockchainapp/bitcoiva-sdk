@@ -65,7 +65,7 @@ distclean:
 ### Documentation
 
 godocs:
-	@echo "--> Wait a few seconds and visit http://localhost:6060/pkg/github.com/cosmos/cosmos-sdk/types"
+	@echo "--> Wait a few seconds and visit http://localhost:6060/pkg/github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	godoc -http=:6060
 
 ########################################

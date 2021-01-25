@@ -6,8 +6,8 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/client/context"
 	"github.com/cosmos/cosmos-sdk/client/flags"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/types/rest"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/rest"
 	"github.com/cosmos/cosmos-sdk/x/auth/types"
 )
 

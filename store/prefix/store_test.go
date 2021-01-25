@@ -8,7 +8,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/store/gaskv"
 	"github.com/cosmos/cosmos-sdk/store/iavl"
 	"github.com/cosmos/cosmos-sdk/store/types"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 
 	"github.com/stretchr/testify/require"
 

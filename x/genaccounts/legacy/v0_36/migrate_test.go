@@ -1,7 +1,7 @@
 package v0_36
 
 import (
-	"github.com/cosmos/cosmos-sdk/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/types"
 	v034distr "github.com/cosmos/cosmos-sdk/x/distribution/legacy/v0_34"
 	v034accounts "github.com/cosmos/cosmos-sdk/x/genaccounts/legacy/v0_34"
 	v034gov "github.com/cosmos/cosmos-sdk/x/gov/legacy/v0_34"

@@ -19,8 +19,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/server"
 	"github.com/cosmos/cosmos-sdk/server/mock"
 	"github.com/cosmos/cosmos-sdk/tests"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/types/module"
+	sdk "github.com/osiz-blockchainapp/bitcoiva-sdk/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/module"
 	"github.com/cosmos/cosmos-sdk/x/genutil"
 )
 
