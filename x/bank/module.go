@@ -14,8 +14,8 @@ import (
 	"github.com/osiz-blockchainapp/bitcoiva-sdk/types/module"
 	"github.com/cosmos/cosmos-sdk/x/bank/client/cli"
 	"github.com/cosmos/cosmos-sdk/x/bank/client/rest"
-	"github.com/cosmos/cosmos-sdk/x/bank/internal/keeper"
-	"github.com/cosmos/cosmos-sdk/x/bank/internal/types"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/bank/internal/keeper"
+	"github.com/osiz-blockchainapp/bitcoiva-sdk/x/bank/internal/types"
 )
 
 var (
